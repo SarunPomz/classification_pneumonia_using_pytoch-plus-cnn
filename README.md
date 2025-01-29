@@ -7,3 +7,5 @@
 ![qwer](https://github.com/user-attachments/assets/26d4b05a-b478-4b4b-851e-d534913f58c6)
 
 ![qwerr](https://github.com/user-attachments/assets/3afe1733-82af-4645-94f4-bc0c8cb4d04f)
+
+link สำหรับการทดสอบโมเดล https://youtu.be/b2UmUfWcsp4
