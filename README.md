@@ -1,1 +1,1 @@
-# classification_pneumonia_using_pytoch-plus-cnn
+# โปรเจคนี้เป็นโปรเจคจบระดับปริญญาตรี โดยใช้ Deep learning ผสมผสานกันระหว่าง pytorch + cnn
