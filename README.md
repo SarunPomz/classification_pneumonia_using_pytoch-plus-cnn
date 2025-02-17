@@ -8,4 +8,4 @@
 
 ![qwerr](https://github.com/user-attachments/assets/3afe1733-82af-4645-94f4-bc0c8cb4d04f)
 
-link สำหรับการทดสอบโมเดล https://youtu.be/b2UmUfWcsp4
+link สำหรับการทดสอบโมเดล https://youtu.be/CdbblCIrHDE
